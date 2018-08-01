@@ -1,6 +1,10 @@
 hi 
 good morning
 <<<<<<< HEAD
+<<<<<<< HEAD
 good afternoon
 =======
 >>>>>>> 80ad8d9... Create file1
+=======
+good afternoon
+>>>>>>> f1d145d... adding modified file1
